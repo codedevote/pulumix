@@ -1,0 +1,21 @@
+{
+  "name": "pulumix",
+  "version": "1.0.0",
+  "description": "Some simple extensions and helpers for use with pulumi.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "homepage": "https://github.com/codedevote/pulumix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codedevote/pulumix.git"
+  },
+  "author": "codedevote@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.10.59",
+    "typescript": "^3.7.3"
+  },
+  "files": ["lib/**/*"]
+}
